@@ -1,6 +1,6 @@
-# vue-demo
+# vue-axios
 
-> A Vue.js project
+> 对于axios的简单二次封装，启动项目后有个简单的案例！
 
 ## Build Setup
 
@@ -18,4 +18,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

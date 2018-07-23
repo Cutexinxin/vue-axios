@@ -10,7 +10,7 @@ axios.defaults.withCredentials = true
 // Vue.prototype.$static = ''
 // 配置接口地址
 // axios.defaults.baseURL = ''
-// POST传参序列化(添加请求拦截器)
+// 添加请求拦截器
 axios.interceptors.request.use(
   config => {
     return config;
